@@ -1,3 +1,8 @@
+# User Define
+.DS_Store
+config.py
+Resources2
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
